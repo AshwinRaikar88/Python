@@ -1,10 +1,12 @@
 import re
 
-fhand = open('mbox-short.txt')
+fhand = open('D:/Downloads/Documents/mbox-short.txt')
 
+count=0
 for line in fhand:
-    print(line)
     line = line.rstrip()
     if re.search('^From:.+@', line):
-        x=re.findall('^From:(.+@)', line)
+        x=re.findall('^From:(.*@.*)', line)
         print(x)
+        count += 1
+print("Count: ",count)
