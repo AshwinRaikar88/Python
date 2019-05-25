@@ -1,3 +1,5 @@
+'''4. Write a Python program which illustrates the join command in SQLite3.'''
+
 import sqlite3
 
 conn = sqlite3.connect('friends.sqlite')
