@@ -1,3 +1,8 @@
+'''5. Write a Python program which retrieves the image using urllib and Sockets
+library.'''
+
+#Using Sockets Library:
+
 import socket
 import time
 
