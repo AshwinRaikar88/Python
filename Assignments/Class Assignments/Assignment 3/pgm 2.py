@@ -1,3 +1,6 @@
+'''2. Execute the Google geocoding service program and print the latitude and
+longitude of the entered location.'''
+
 import urllib.request, urllib.parse, urllib.error
 import json
 
