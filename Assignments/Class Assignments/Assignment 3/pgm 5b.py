@@ -1,3 +1,7 @@
+'''5. Write a Python program which retrieves the image using urllib and Sockets
+library.'''
+
+#Using URLlib Library:
 import urllib.request, urllib.parse, urllib.error
 
 img = urllib.request.urlopen('http://data.pr4e.org/cover3.jpg')
