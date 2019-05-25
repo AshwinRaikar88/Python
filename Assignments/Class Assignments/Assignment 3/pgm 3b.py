@@ -1,3 +1,8 @@
+'''3. Execute the program which retrieves a particular file on server using URLlib and
+Sockets library.'''
+
+# Using Sockets library: 
+
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
