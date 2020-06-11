@@ -1,12 +1,11 @@
-<p align="center">
+<h3 align="center">
     <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" />
     <br>
-<p>
+</h3>
 
 <h1 align="center">
-
-<p>Python Learn</p>
+    Python Learn
 </h1>
 
 Here you can find resources to learn Python  ✍
@@ -20,4 +19,9 @@ Here you can find resources to learn Python  ✍
 <h3>PDFs 📙</h3>
 <p><a href="https://github.com/AshwinRaikar88/Python/blob/master/books/How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf">1. How to Think Like a Computer Scientist</a></p>
 <p><a href="https://github.com/AshwinRaikar88/Python/blob/master/books/Python%20for%20Everybody.pdf">2. Python for Everybody</a></p>
+</details>
+
+<details><summary>📜 Cheat Sheets</summary>
+<h3></h3>
+<p><a href="https://github.com/AshwinRaikar88/Python/blob/master/Cheat_sheets/cheatsheet.md">1. Basic-Cheat Sheet 📜</a></p>
 </details>
